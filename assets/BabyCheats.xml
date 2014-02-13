@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource name="root">
+	<resource name="BabyCheats">
+		<resource name="喂养健康" file="wyjk" tagname="0">
+			<resource name="宝宝不爱吃辅食有原因" file="1.txt" tagname="1" />
+			<resource name="宝宝不宜吃膨化食品" file="2.txt" tagname="1" />
+			<resource name="宝宝长牙的5大阶段需注意" file="3.txt" tagname="1" />
+			<resource name="宝宝秋季饮食防上火攻略" file="4.txt" tagname="1" />
+			<resource name="宝宝一发烧就要马上吃药吗？" file="5.txt" tagname="1" />
+			<resource name="宝贝安全吃海鲜8大要诀" file="6.txt" tagname="1" />
+			<resource name="春秋两季断奶最宜" file="7.txt" tagname="1" />
+			<resource name="冬季宝宝的衣服别太厚" file="8.txt" tagname="1" />
+			<resource name="儿童咳嗽饮食8大忌" file="9.txt" tagname="1" />
+			<resource name="给爱闹的孩子母乳喂养" file="10.txt" tagname="1" />
+			<resource name="给宝宝吃鸡肉要避开的食物" file="11.txt" tagname="1" />
+			<resource name="孩子肥肉吃多了有害健康" file="12.txt" tagname="1" />
+			<resource name="孩子偏食的危害" file="13.txt" tagname="1" />
+			<resource name="警惕宝宝牙齿健康三误区" file="14.txt" tagname="1" />
+			<resource name="立秋后 需注意儿童吃出腹泻" file="15.txt" tagname="1" />
+			<resource name="哪些食物容易吃出笨小孩" file="16.txt" tagname="1" />
+			<resource name="奶粉宝宝喂养中最常见问题" file="17.txt" tagname="1" />
+			<resource name="培养宝宝10个健康就餐习惯" file="18.txt" tagname="1" />
+			<resource name="巧对宝宝不愿断奶" file="19.txt" tagname="1" />
+			<resource name="秋冬母乳喂养妈妈饮食方案" file="20.txt" tagname="1" />
+			<resource name="秋季宝宝防燥7款食谱" file="21.txt" tagname="1" />
+			<resource name="适合孩子秋季吃的9种食物" file="22.txt" tagname="1" />
+			<resource name="提高宝宝免疫力的10种食物" file="23.txt" tagname="1" />
+			<resource name="天气渐凉预防感冒喝点香菇汤" file="24.txt" tagname="1" />
+			<resource name="为宝宝护肺五步" file="25.txt" tagname="1" />
+			<resource name="夏秋冷暖交替如何防感冒" file="26.txt" tagname="1" />
+			<resource name="新生儿喝水需要注意的细节" file="27.txt" tagname="1" />
+			<resource name="选牛奶一看配方表二看保质期" file="28.txt" tagname="1" />
+			<resource name="炎炎夏日6招让宝宝有个好胃口" file="29.txt" tagname="1" />
+			<resource name="注意危害宝宝健康的营养误区" file="30.txt" tagname="1" />
+		</resource>
+		<resource name="心理行为" file="xlxw" tagname="0">
+			<resource name="宝宝12种必须纠正的坏习惯" file="31.txt" tagname="1" />
+			<resource name="宝宝爱打人的三大根源" file="32.txt" tagname="1" />
+			<resource name="宝宝心情压抑时的七种行为表现" file="33.txt" tagname="1" />
+			<resource name="父母需要善于对待孩子的逆反心理" file="34.txt" tagname="1" />
+			<resource name="父母智取任性孩子的四种武器" file="35.txt" tagname="1" />
+			<resource name="关注学龄前儿童的心理卫生早教" file="36.txt" tagname="1" />
+			<resource name="孩子不听话怎么办？" file="37.txt" tagname="1" />
+			<resource name="孩子为什么会有恐惧心理" file="38.txt" tagname="1" />
+			<resource name="家长如何巧妙拒绝孩子的“再多一次”" file="39.txt" tagname="1" />
+			<resource name="教宝宝改掉在家发脾气的习惯" file="40.txt" tagname="1" />
+			<resource name="教你3招应对性格倔强的孩子" file="41.txt" tagname="1" />
+			<resource name="教你缓解孩子的心理压力" file="42.txt" tagname="1" />
+			<resource name="解除孩子心理压力的好办法" file="43.txt" tagname="1" />
+			<resource name="解读孩子22种心里异常" file="44.txt" tagname="1" />
+			<resource name="妈妈们少对孩子发牢骚" file="45.txt" tagname="1" />
+			<resource name="妈妈情绪是宝宝性格的基石" file="46.txt" tagname="1" />
+			<resource name="男孩“娘娘腔”怎么办？" file="47.txt" tagname="1" />
+			<resource name="你家宝宝会“没大没小”吗？" file="48.txt" tagname="1" />
+			<resource name="你家孩子好胜心强吗？" file="49.txt" tagname="1" />
+			<resource name="培养宝宝的独立意识，减弱宝宝的依赖心理" file="50.txt" tagname="1" />
+			<resource name="培养儿童健康心里9个“不”" file="51.txt" tagname="1" />
+			<resource name="让你的小孩不再害怕当众讲话" file="52.txt" tagname="1" />
+			<resource name="三岁孩子说谎，家长不必严惩" file="53.txt" tagname="1" />
+			<resource name="什么因素影响了宝宝的性格" file="54.txt" tagname="1" />
+			<resource name="说话小技巧，莫伤了孩子" file="55.txt" tagname="1" />
+			<resource name="太早让宝宝独睡可能引发自闭症" file="56.txt" tagname="1" />
+			<resource name="为什么宝宝入园频发“失语症”？" file="57.txt" tagname="1" />
+			<resource name="一起关注孩子心理需要" file="58.txt" tagname="1" />
+			<resource name="这几点让你的孩子缺乏自信心" file="59.txt" tagname="1" />
+			<resource name="自信是孩子敢说能说的动力" file="60.txt" tagname="1" />
+		</resource>
+		<resource name="游戏玩具" file="yxwj" tagname="0">
+			<resource name="“玩耍”帮助宝宝成长" file="61.txt" tagname="1" />
+			<resource name="0～1岁宝宝经典玩具清单" file="62.txt" tagname="1" />
+			<resource name="1-3个月宝宝的游戏" file="63.txt" tagname="1" />
+			<resource name="10个整理宝宝玩具的好办法" file="64.txt" tagname="1" />
+			<resource name="帮助孩子训练左右脑记忆的游戏" file="65.txt" tagname="1" />
+			<resource name="宝宝成长4个阶段对玩具的不同选择" file="66.txt" tagname="1" />
+			<resource name="床上游戏启蒙孩子早期教育" file="67.txt" tagname="1" />
+			<resource name="儿童玩具手枪最损伤儿童听力" file="68.txt" tagname="1" />
+			<resource name="给宝贝选择玩具10要点" file="69.txt" tagname="1" />
+			<resource name="给孩子选玩具，四大注意" file="70.txt" tagname="1" />
+			<resource name="家长，宝宝的第一个玩伴" file="71.txt" tagname="1" />
+			<resource name="每种玩具都有其独特之处" file="72.txt" tagname="1" />
+			<resource name="培养孩子好口才的几个小游戏" file="73.txt" tagname="1" />
+			<resource name="亲子游戏中父母常常忽略的六大误区" file="74.txt" tagname="1" />
+			<resource name="伤害宝宝的几种常见危险游戏" file="75.txt" tagname="1" />
+			<resource name="适时的让宝宝一个人玩游戏" file="76.txt" tagname="1" />
+			<resource name="水是孩子最喜欢的天然玩具" file="77.txt" tagname="1" />
+			<resource name="挑选玩具的注意事项" file="78.txt" tagname="1" />
+			<resource name="玩好玩具可助宝宝学语言" file="79.txt" tagname="1" />
+			<resource name="玩积木提高宝宝手眼协调能力" file="80.txt" tagname="1" />
+			<resource name="玩具不是越奇特越好" file="81.txt" tagname="1" />
+			<resource name="玩具陪伴孩子度过美好童年时光" file="82.txt" tagname="1" />
+			<resource name="五个小游戏培养宝宝的方位认知能力" file="83.txt" tagname="1" />
+			<resource name="五六岁幼儿应该具备的5种基本技能" file="84.txt" tagname="1" />
+			<resource name="小游戏，大学问" file="85.txt" tagname="1" />
+			<resource name="用游戏来训练孩子的各项功能" file="86.txt" tagname="1" />
+			<resource name="游戏对孩子的重要性" file="87.txt" tagname="1" />
+			<resource name="游戏开发宝宝智力" file="88.txt" tagname="1" />
+			<resource name="游戏时家长请鼓励孩子合理创新" file="89.txt" tagname="1" />
+			<resource name="怎样让玩具对宝宝具有持久吸引力" file="90.txt" tagname="1" />
+		</resource>
+		<resource name="早教成长" file="zjcz" tagname="0">
+			<resource name="八招教孩子学会抵抗诱惑" file="91.txt" tagname="1" />
+			<resource name="爸爸的育儿小妙招" file="92.txt" tagname="1" />
+			<resource name="宝宝不能接受的十种教育态度" file="93.txt" tagname="1" />
+			<resource name="宝宝早期教育之“秘籍”" file="94.txt" tagname="1" />
+			<resource name="不同性格母子的最佳育儿法" file="95.txt" tagname="1" />
+			<resource name="不要一味地“夸奖和表扬”孩子" file="96.txt" tagname="1" />
+			<resource name="成功隔代教育具备的十大特征" file="97.txt" tagname="1" />
+			<resource name="从胎儿期培养孩子时间概念" file="98.txt" tagname="1" />
+			<resource name="儿童背诵唐诗时，家长应采取的措施" file="99.txt" tagname="1" />
+			<resource name="父母教育孩子的六大误区" file="100.txt" tagname="1" />
+			<resource name="家长不要压制孩子哭的情绪" file="101.txt" tagname="1" />
+			<resource name="家长的权威不是靠“吓”的" file="102.txt" tagname="1" />
+			<resource name="家长如何做到独立性教育（1）" file="103.txt" tagname="1" />
+			<resource name="家长如何做到独立性教育（2）" file="104.txt" tagname="1" />
+			<resource name="家庭教育孩子的新方法" file="105.txt" tagname="1" />
+			<resource name="家庭育儿切忌早教过度" file="106.txt" tagname="1" />
+			<resource name="教育孩子别太苛刻" file="107.txt" tagname="1" />
+			<resource name="教育孩子更要顾其“面子”" file="108.txt" tagname="1" />
+			<resource name="教育孩子如何摆好架子？" file="109.txt" tagname="1" />
+			<resource name="教育孩子需遵守哪些原则" file="110.txt" tagname="1" />
+			<resource name="警惕：宝宝早期教育12种禁忌" file="111.txt" tagname="1" />
+			<resource name="开学季的点点滴滴" file="112.txt" tagname="1" />
+			<resource name="妈妈“危机教育”孩子不敢长大" file="113.txt" tagname="1" />
+			<resource name="妈妈心态影响宝宝入园" file="114.txt" tagname="1" />
+			<resource name="如何教育孩子遵守时间" file="115.txt" tagname="1" />
+			<resource name="三有效秘诀教你培养宝宝耐心" file="116.txt" tagname="1" />
+			<resource name="婴儿期右脑开发方案" file="117.txt" tagname="1" />
+			<resource name="幼儿教育呼唤爸爸的加入" file="118.txt" tagname="1" />
+			<resource name="怎样对宝宝进行初步的性教育" file="119.txt" tagname="1" />
+			<resource name="自卫让孩子赢得自尊" file="120.txt" tagname="1" />
+		</resource>
+	</resource>
+</resource>

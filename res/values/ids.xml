@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="button4">false</item>
+    <item type="id" name="adonContainerView">false</item>
+    <item type="id" name="main_linearLayout_bg">false</item>
+    <item type="id" name="main_listView">false</item>
+    <item type="id" name="itemText">false</item>
+    <item type="id" name="headText">false</item>
+    <item type="id" name="text_view_ShowId">false</item>
+</resources>
